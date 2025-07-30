@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting…</title>
+
+  <!-- Tetapkan pratonton WhatsApp -->
+  <meta property="og:title" content="Jemputan Majlis Aqiqah Saya">
+  <meta property="og:description" content="Klik untuk lihat jemputan dan lokasi majlis.">
+  <meta property="og:image" content="https://domain-anda.com/ecard.jpg">
+  <meta property="og:url"   content="https://domain-anda.com/redirect.html">
+
+  <!-- Redirect terus ke link sebenar -->
+  <meta http-equiv="refresh" content="0; url=https://invitee.site/u/inv8e70_majlis-aqiqah-shahran-faeq/">
+</head>
+<body>
+  <p>Anda akan dibawa ke pautan jemputan secara automatik.</p>
+</body>
+</html>

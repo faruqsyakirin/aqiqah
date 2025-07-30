@@ -8,7 +8,7 @@
   <meta property="og:title" content="Jemputan Majlis Aqiqah Saya">
   <meta property="og:description" content="Klik untuk lihat jemputan dan lokasi majlis.">
   <meta property="og:image" content="https://github.com/faruqsyakirin/my-ecard">
-  <meta property="og:url"   content="https://github.com/faruqsyakirin/my-ecard">
+  <meta property="og:url"   content="https://github.com/faruqsyakirin/aqiqah/edit/main/redirect.html.txt">
 
   <!-- Redirect terus ke link sebenar -->
   <meta http-equiv="refresh" content="0; url=https://invitee.site/u/inv8e70_majlis-aqiqah-shahran-faeq/">
